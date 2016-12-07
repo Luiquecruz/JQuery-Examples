@@ -24,7 +24,7 @@ Var myElement = $("#myElement").html(); // .html() Get the html contents of the 
 
 $("a").click(function() {
 	// do something when a link tag <a> is clicked
-})/
+});
 
 // Other events
 
